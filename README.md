@@ -16,5 +16,6 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Progress
 
 | Day | Topic | Status |
-|------|--------|--------|
-| 1 | Arrays - Find Maximum Element | ✅ |
+|-----|--------|--------|
+| 1 | Find Maximum Element in Array | ✅ |
+| 2 | Find Minimum Element in Array | ✅ |
